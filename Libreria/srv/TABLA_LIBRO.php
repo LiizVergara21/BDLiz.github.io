@@ -1,0 +1,7 @@
+<?php
+
+const LIBRO = "LIBRO";
+const LIBRO_ID = "LIBRO_ID";
+const LIBRO_NOMBRE = "LIBRO_NOMBRE";
+const LIBRO_AUTOR = "LIBRO_AUTOR";
+const LIBRO_GENERO = "LIBRO_GENERO";
